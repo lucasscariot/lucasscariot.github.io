@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploy in 10 secondes with now.sh
-date: 2017-12-10 23:50 +0100
+date: 2016-12-10 23:50 +0100
 categories: technical
 ---
 Now is  a service that allows you to deploy your code in 10 seconds.

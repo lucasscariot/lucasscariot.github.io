@@ -11,38 +11,44 @@ This is my first npm package.
 
 
 ## Installation
-`npm install rest-endpoint --save`
+{% highlight shell %}
+  npm install rest-endpoint --save
+{% endhighlight %}
 
-`yarn add rest-endpoint --save`
+{% highlight shell %}
+  yarn add rest-endpoint --save
+{% endhighlight %}
+
 
 ## Configuration
-```
-const express = require('express')
-const RestEndpoint = require('rest-endpoint')
-const app = express()
-const models = require('./models')
+{% highlight javascript %}
+  const express = require('express')
+  const RestEndpoint = require('rest-endpoint')
+  const app = express()
+  const models = require('./models')
 
 
-// Sequelize
-const api = new RestEndpoint({
-  app,
-  sequelize: true,
-  namespace: 'api',
-})
+  // Sequelize
+  const api = new RestEndpoint({
+    app,
+    sequelize: true,
+    namespace: 'api',
+  })
 
 
-// Mongoose
-const api = new RestEndpoint({
-  app,
-  mongoose: true,
-  namespace: 'api',
-})
+  // Mongoose
+  const api = new RestEndpoint({
+    app,
+    mongoose: true,
+    namespace: 'api',
+  })
 
-api.crud(models.channels)
-api.crud(models.users)
-api.crud(models.conversations)
-api.crud(models.messages)
-```
+  api.crud(models.channels)
+  api.crud(models.users)
+  api.crud(models.conversations)
+  api.crud(models.messages)
+{% endhighlight %}
+
 
 ## Endpoints
 
