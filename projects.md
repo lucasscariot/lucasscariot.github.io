@@ -5,7 +5,7 @@ title: Projects
 # Coffees in Paris
 > Always useful when you do not know where to go.
 
-#### [coffee-paris-front.herokuapp.com](https://coffee-paris-front.herokuapp.com)
+#### [lucas.scariot.fr/coffee](http://lucas.scariot.fr/coffee)
 
 # Rest Endpoint
 > NPM package that generates CRUD endpoints from a Mongoose or Sequelize model.
@@ -15,9 +15,9 @@ title: Projects
 # Calculator
 > A simple calculator made with React and Redux.
 
-#### [lucasscariot.github.io/calculator](https://lucasscariot.github.io/calculator)
+#### [lucas.scariot.fr/calculator](http://lucas.scariot.fr/calculator)
 
 # Rocks
 > A logic game where you have to reproduce a shape, despite the behavior of the board.
 
-#### [lucasscariot.github.io/rocks](https://lucasscariot.github.io/rocks)
+#### [lucas.scariot.fr/rocks](http://lucas.scariot.fr/rocks)
