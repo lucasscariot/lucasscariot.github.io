@@ -5,7 +5,7 @@ title: Projects
 # Coffees in Paris
 > Always useful when you do not know where to go.
 
-#### [lucas.scariot.fr/coffee](http://lucas.scariot.fr/coffee)
+#### [coffeehunters.eu](http://coffeehunters.eu)
 
 # Rest Endpoint
 > NPM package that generates CRUD endpoints from a Mongoose or Sequelize model.
