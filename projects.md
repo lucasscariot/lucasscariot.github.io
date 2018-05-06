@@ -12,12 +12,17 @@ title: Projects
 
 #### [github.com/lucasscariot/rest-endpoint](https://github.com/lucasscariot/rest-endpoint)
 
+# Github Galaxy
+> Small app that analyse your github project's code and display the most used languages.
+
+#### [lucas.scariot.fr/skills](https://lucas.scariot.fr/skills)
+
 # Calculator
 > A simple calculator made with React and Redux.
 
-#### [lucas.scariot.fr/calculator](http://lucas.scariot.fr/calculator)
+#### [lucas.scariot.fr/calculator](https://lucas.scariot.fr/calculator)
 
 # Rocks
 > A logic game where you have to reproduce a shape, despite the behavior of the board.
 
-#### [lucas.scariot.fr/rocks](http://lucas.scariot.fr/rocks)
+#### [lucas.scariot.fr/rocks](https://lucas.scariot.fr/rocks)
