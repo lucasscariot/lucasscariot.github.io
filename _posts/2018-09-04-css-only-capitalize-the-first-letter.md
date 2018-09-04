@@ -26,7 +26,7 @@ There is a CSS [pseudo-element](https://developer.mozilla.org/en-US/docs/Web/CSS
 
 {% highlight css %}
 p::first-letter {
-text-transform: uppercase;
+  text-transform: uppercase;
 }
 {% endhighlight %}
 
